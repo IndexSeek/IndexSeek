@@ -1,7 +1,7 @@
 ## Hi there, I'm Tyler (IndexSeek)! 👋
 
 ### 🌱 What I'm currently learning
-- [ ] Cloud computing with AWS/LocalStack with various services
+- [ ] Cloud computing with AWS/LocalStack using various services
 - [ ] All the dataframe APIs
 
 ### 🔭 What I'm working on
