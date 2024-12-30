@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Tyler (IndexSeek)! 👋
 
-<!--
-**IndexSeek/IndexSeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 What I'm currently learning
+- [ ] Cloud computing with AWS/LocalStack with various services
+- [ ] All the dataframe APIs
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- A personal project to solve Leetcode SQL challenges using various dataframe APIs
+- [Ibis](https://github.com/ibis-project/ibis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![IndexSeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndexSeek&show_icons=true&theme=tokyonight)
+
+### 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+[PyIceberg — Trying out the SQLite Catalog](https://medium.com/learning-the-computers/pyiceberg-trying-out-the-sqlite-catalog-d7ace2a4ca5f?source=friends_link&sk=77307c4357fd01fce063ce52baf52298)
+
+[Classification metrics on the backend](https://ibis-project.org/posts/classification-metrics-on-the-backend/)
+<!-- BLOG-POST-LIST:END -->
+
+### 🤝 Let's connect!
+Feel free to reach out if you want to collaborate on a project, need help with
+something, or just want to chat about tech!
