@@ -5,7 +5,8 @@
 - [ ] All the dataframe APIs
 
 ### 🔭 What I'm working on
-- A personal project to solve Leetcode SQL challenges using various dataframe APIs
+- [A personal project](https://github.com/tablexpr/leetcode-sql-50) to solve Leetcode
+SQL challenges using various dataframe APIs
 - [Ibis](https://github.com/ibis-project/ibis)
 
 ### 📈 GitHub Stats
