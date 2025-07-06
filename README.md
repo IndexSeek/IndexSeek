@@ -9,9 +9,6 @@
 SQL challenges using various dataframe APIs
 - [Ibis](https://github.com/ibis-project/ibis)
 
-### 📈 GitHub Stats
-![IndexSeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndexSeek&show_icons=true&theme=tokyonight)
-
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [Using pre-commit in GitLab pipelines](https://medium.com/learning-the-computers/using-pre-commit-in-gitlab-pipelines-3d6854968344?source=friends_link&sk=8607ebde781695c6b3be6b9006d7e7c3)
