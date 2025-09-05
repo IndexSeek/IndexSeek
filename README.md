@@ -1,4 +1,4 @@
-## Hi there, I'm Tyler!�
+## Hi there, I'm Tyler!
 
 ### What I'm currently learning
 - [ ] OpenTofu
